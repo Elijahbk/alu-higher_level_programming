@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """ no injections this time! """
 import sys
