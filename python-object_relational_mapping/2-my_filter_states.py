@@ -1,4 +1,4 @@
-k#!/usr/bin/python3
+#!/usr/bin/python3
 """ filters states according to input """
 import sys
 import MySQLdb
